@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from matplotlib.image import imread
 import numpy as np
 
-"""Image compression using discrete Wavelet transform"""
+"""Image compression using discrete Wavelet transform."""
 
 plt.rcParams['figure.figsize'] = [8, 8]
 plt.rcParams.update({'font.size': 18})
